@@ -1,0 +1,25 @@
+C:\Users\22ethananderson\AppData\Local\Temporary Projects\FitnessChallengeApplication\bin\Debug\FitnessChallengeApplication.exe.config
+C:\Users\22ethananderson\AppData\Local\Temporary Projects\FitnessChallengeApplication\bin\Debug\FitnessChallengeApplication.exe
+C:\Users\22ethananderson\AppData\Local\Temporary Projects\FitnessChallengeApplication\bin\Debug\FitnessChallengeApplication.pdb
+C:\Users\22ethananderson\AppData\Local\Temporary Projects\FitnessChallengeApplication\bin\Debug\FitnessChallengeApplication.xml
+C:\Users\22ethananderson\AppData\Local\Temporary Projects\FitnessChallengeApplication\obj\Debug\FitnessChallengeApplication.frmWeightLoss.resources
+C:\Users\22ethananderson\AppData\Local\Temporary Projects\FitnessChallengeApplication\obj\Debug\FitnessChallengeApplication.Resources.resources
+C:\Users\22ethananderson\AppData\Local\Temporary Projects\FitnessChallengeApplication\obj\Debug\FitnessChallengeApplication.vbproj.GenerateResource.Cache
+C:\Users\22ethananderson\AppData\Local\Temporary Projects\FitnessChallengeApplication\obj\Debug\FitnessChallengeApplication.exe
+C:\Users\22ethananderson\AppData\Local\Temporary Projects\FitnessChallengeApplication\obj\Debug\FitnessChallengeApplication.xml
+C:\Users\22ethananderson\AppData\Local\Temporary Projects\FitnessChallengeApplication\obj\Debug\FitnessChallengeApplication.pdb
+C:\Users\22ethananderson\Documents\Visual Studio 2012\Projects\FitnessChallengeApplication\FitnessChallengeApplication\bin\Debug\FitnessChallengeApplication.exe.config
+C:\Users\22ethananderson\Documents\Visual Studio 2012\Projects\FitnessChallengeApplication\FitnessChallengeApplication\obj\Debug\FitnessChallengeApplication.exe
+C:\Users\22ethananderson\Documents\Visual Studio 2012\Projects\FitnessChallengeApplication\FitnessChallengeApplication\obj\Debug\FitnessChallengeApplication.xml
+C:\Users\22ethananderson\Documents\Visual Studio 2012\Projects\FitnessChallengeApplication\FitnessChallengeApplication\obj\Debug\FitnessChallengeApplication.pdb
+C:\Users\22ethananderson\Documents\Visual Studio 2012\Projects\Chapter 6\FitnessChallengeApplication\FitnessChallengeApplication\bin\Debug\FitnessChallengeApplication.exe.config
+C:\Users\22ethananderson\Documents\Visual Studio 2012\Projects\Chapter 6\FitnessChallengeApplication\FitnessChallengeApplication\obj\Debug\FitnessChallengeApplication.exe
+C:\Users\22ethananderson\Documents\Visual Studio 2012\Projects\Chapter 6\FitnessChallengeApplication\FitnessChallengeApplication\obj\Debug\FitnessChallengeApplication.xml
+C:\Users\22ethananderson\Documents\Visual Studio 2012\Projects\Chapter 6\FitnessChallengeApplication\FitnessChallengeApplication\obj\Debug\FitnessChallengeApplication.pdb
+C:\Users\22ethananderson\Documents\Visual Studio 2012\Projects\Chapter 6\FitnessChallengeApplication\FitnessChallengeApplication\bin\Debug\FitnessChallengeApplication.exe
+C:\Users\22ethananderson\Documents\Visual Studio 2012\Projects\Chapter 6\FitnessChallengeApplication\FitnessChallengeApplication\bin\Debug\FitnessChallengeApplication.pdb
+C:\Users\22ethananderson\Documents\Visual Studio 2012\Projects\Chapter 6\FitnessChallengeApplication\FitnessChallengeApplication\bin\Debug\FitnessChallengeApplication.xml
+C:\Users\22ethananderson\Documents\Visual Studio 2012\Projects\Chapter 6\FitnessChallengeApplication\FitnessChallengeApplication\obj\Debug\FitnessChallengeApplication.frmWeightLoss.resources
+C:\Users\22ethananderson\Documents\Visual Studio 2012\Projects\Chapter 6\FitnessChallengeApplication\FitnessChallengeApplication\obj\Debug\FitnessChallengeApplication.Resources.resources
+C:\Users\22ethananderson\Documents\Visual Studio 2012\Projects\Chapter 6\FitnessChallengeApplication\FitnessChallengeApplication\obj\Debug\FitnessChallengeApplication.vbproj.GenerateResource.Cache
+C:\Users\22ethananderson\Documents\Visual Studio 2012\Projects\Chapter 6\FitnessChallengeApplication\FitnessChallengeApplication\obj\Debug\FitnessChallengeApplication.splFitness.resources
